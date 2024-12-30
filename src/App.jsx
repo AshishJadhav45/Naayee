@@ -5,7 +5,7 @@ import Profile from './pages/Profile';
 // import Salons from './pages/Salons';
 // import SalonDetails from './pages/SalonDetails';
 import Booking from './pages/Booking';
-import './app.css';
+
 
 
 function App() {
