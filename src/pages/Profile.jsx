@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import Booking from './Booking'; // Import the Booking component
+import '../app.css';
 
 const Profile = () => {
   const [profile, setProfile] = useState(null); 
